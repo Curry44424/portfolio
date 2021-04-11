@@ -1,0 +1,26 @@
+img {
+    max-height: 300px;
+}
+
+a {
+    color: grey;
+font-size: 36px;
+margin: 0 15px;
+}
+
+a:hover {
+    color: cyan;
+}
+
+
+.nav-wrapper .nav-link-wrapper{
+  padding: 20px;  
+  background-color: darkblue;
+  color: gray;
+}
+
+.brand{
+    text-align: right;
+    margin: 30px;
+    font-size: 45px;
+  }   
